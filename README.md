@@ -8,3 +8,5 @@ At a point , I would start including resources that helped me in the mastery of 
 
 1. Customer Churn case study, the first report made in power Bi , this report monitors the churn rate of customers in a telecommunication company, in this study ; customers are broken down by reason for churn, age , amount of time in the company, subscription type, and so much more.
 
+2. KPMG virtual internship, in this internship, I made use of various softwares and skills ranging from Powerpoint to Microsoft word and then making my report and KPI findings in Power BI. Skills used involve reporting, spreadsheets, data analysis, power point presentation and so on.
+
