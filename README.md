@@ -10,3 +10,4 @@ At a point , I would start including resources that helped me in the mastery of 
 
 2. KPMG virtual internship, in this internship, I made use of various softwares and skills ranging from Powerpoint to Microsoft word and then making my report and KPI findings in Power BI. Skills used involve reporting, spreadsheets, data analysis, power point presentation and so on.
 
+3. Performance report, this is an extensive dive into the performance of a call centre and how they have handled calls in the first three months of the year. This report highlights the performance of individual agent and how they have hanndled the business over the months.
